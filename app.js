@@ -15,3 +15,12 @@ const h1 = document.querySelector('h1');
     });
     
     
+//if button is clicked, remove button
+    const button2 = document.querySelector('button');
+    button2.addEventListener('click', function() {
+        button2.remove();
+    });
+
+    
+    
+    

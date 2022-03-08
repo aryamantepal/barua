@@ -1,0 +1,47 @@
+/**center h1 and button*/
+h1 {
+  text-align: center;
+}
+/**center button*/
+button {
+  display: block;
+  margin: 0 auto;
+}
+/**make img small*/
+img {
+  width: 250px;
+  height: 250px;
+}
+
+/**make button big*/
+button {
+  font-size: 1.5em;
+}
+
+/**add space between img and button*/
+button {
+ padding: 20px;
+ margin-top: 5em;
+ 
+}
+
+/**make h1 big*/
+h1 {
+  font-size: 5em;
+}
+/**make it colorful*/
+h1 {
+  color: #ff0000;
+}
+
+/**make button background blue, text white*/
+button {
+  background-color: #0000ff;
+  color: #ffffff;
+}
+
+/**center img*/
+img {
+  display: block;
+  margin: 0 auto;
+}
